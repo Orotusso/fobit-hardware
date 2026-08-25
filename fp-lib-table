@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib(name "FobitLib")(type "KiCad")(uri "${KIPRJMOD}/FobitLib.pretty")(options "")(descr "Local project library"))
+  (lib(name "MyLib")(type "KiCad")(uri "${KIPRJMOD}/MyLib.pretty")(options "")(descr "Local project library"))
+)

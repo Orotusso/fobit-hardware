@@ -1,0 +1,1 @@
+(sym_lib_table (lib(name "FobitSymbols")(type "KiCad")(uri "${KIPRJMOD}/FobitSym/FobitSymbols.kicad_sym")(options "")(descr "Local project symbol library")) (lib(name "MySymbols")(type "KiCad")(uri "${KIPRJMOD}/MySym/MySymbols.kicad_sym")(options "")(descr "Local project symbol library")))

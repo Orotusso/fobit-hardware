@@ -637,6 +637,10 @@
     [
       "9825ea20-541a-4668-be1b-fc50ad719311",
       "IO"
+    ],
+    [
+      "9bdcf337-4f9d-4155-b73d-7f2bcd6acf61",
+      "PWR"
     ]
   ],
   "text_variables": {}

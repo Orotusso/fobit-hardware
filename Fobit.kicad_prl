@@ -116,23 +116,11 @@
     "files": [
       {
         "name": "Fobit.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1066
-        }
-      },
-      {
-        "name": "Fobit.kicad_pcb",
         "open": false,
         "window": {
-          "display": 0,
+          "display": 1,
           "maximized": true,
-          "pos_x": -8,
+          "pos_x": 1912,
           "pos_y": -8,
           "size_x": 1936,
           "size_y": 1066
